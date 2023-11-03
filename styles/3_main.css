@@ -246,13 +246,18 @@ ul {
 	}
 
 	.left {
-		margin-left: 100px;
 		width: 400px;
 		text-align: center;
 	}
 
 	.right {
 		margin-right: 100px;
+	}
+
+	.bottom {
+		margin: 0 200px;
+		display: flex;
+		flex-direction: row;
 	}
 }
 
@@ -265,18 +270,12 @@ ul {
 	color: white;
 	border-radius: 3px;
 	padding: 10px 30px;
+	cursor: pointer;
 }
 
 .but:hover {
 	background-color: white;
 	color: #9a54bc;
-}
-
-.bottom {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-	align-items: flex-start;
 }
 
 #bottom {
