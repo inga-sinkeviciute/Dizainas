@@ -291,7 +291,7 @@ ul {
 }
 
 .img img {
-	margin-left: 10px;
+	margin-right: 10px;
 	transition: transform 0.3s;
 	cursor: pointer;
 }
@@ -302,8 +302,16 @@ ul {
 
 .ul {
 	display: flex;
+	flex-direction: column;
+	margin-top: 40px;
 }
 
 .ul li {
 	list-style-type: none;
+	padding: 10px 5px;
+}
+
+#ul {
+	display: flex;
+	flex-direction: row;
 }
