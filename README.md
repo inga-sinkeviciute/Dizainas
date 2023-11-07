@@ -1,6 +1,6 @@
 # Website landing page
 My version of a responsive landing page design.
-[Check it out]([https://inga-sinkeviciute.github.io/Dizainas/])
+[Check it out](https://inga-sinkeviciute.github.io/Dizainas/)
 
 ## Inspiration taken from:
 
